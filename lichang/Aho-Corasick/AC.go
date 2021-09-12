@@ -8,7 +8,8 @@ package Aho_Corasick
 
 import (
 	"fmt"
-	"iCode/Queue"
+
+	"github.com/CodeHanHan/DataStructure-go/lichang/Queue"
 )
 
 type Ac struct {
