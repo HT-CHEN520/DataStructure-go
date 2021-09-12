@@ -2,7 +2,8 @@ package BinaryTree
 
 import (
 	"fmt"
-	Stack "iCode/Stack"
+
+	Stack "github.com/CodeHanHan/DataStructure-go/lichang/Stack"
 )
 
 /**

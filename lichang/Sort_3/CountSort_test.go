@@ -1,8 +1,9 @@
 package Sort_3
 
 import (
-	s "iCode/Sort_2"
 	"testing"
+
+	s "github.com/CodeHanHan/DataStructure-go/lichang/Sort_2"
 )
 
 func TestCountSort(t *testing.T) {
