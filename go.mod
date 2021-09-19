@@ -1,4 +1,4 @@
-module github.com/CodeHanHan/DataStructure-go
+module github.com/HT-CHEN520/DataStructure-go
 
 go 1.16
 
